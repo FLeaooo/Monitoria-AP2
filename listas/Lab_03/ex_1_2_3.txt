@@ -1,0 +1,5 @@
+1- Uma função é um código que executa determinada tarefa, pode se receber parametros de entrada, retornar valores saida e comportamento diferente ao longo da chamada da função. Ela serve para reutilização de codigo e realiza a modificação de comportamento com base nos parâmetros passados.
+
+2- Uma variável local é aquela que é declarada dentro de uma função e só pode ser acessada dentro dessa função. Ela existe apenas enquanto a função está sendo executada.
+
+3- Uma variável global é declarada fora de todas as funções e pode ser acessada por qualquer função dentro do programa. No entanto, seu uso não é recomendado, pois pode dificultar a depuração e o entendimento do fluxo do programa.
